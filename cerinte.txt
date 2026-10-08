@@ -1,8 +1,8 @@
-De cautat un produs sau serviciu pentru care exista recenzii. Descarcat in 2 fisiere text cel putin 25 de recenzii.
+Alege un produs sau un serviciu care are recenzii si salveaza cel putin 25 de recenzii in doua fisiere text.
 
-Cerinte 1: Se descrie problema decizionala initiala
-Cerinta 2: Se descriu pasii de rezolvare
-Cerinta 3: Se exemplifica rezolvarea problemei decizionale
-Cerinta 4: Se interpreteaza economic rezultatele obtinute
+1. Descrie problema decizionala initiala.
+2. Explica pasii de rezolvare.
+3. Exemplifica rezolvarea problemei decizionale.
+4. Interpreteaza economic rezultatele obtinute.
 
-Recenzii fara date GDPR, eliminare diacritice, limbaj decent.
+Elimina datele personale, diacriticele si limbajul nepotrivit din recenzii.

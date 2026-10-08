@@ -3,38 +3,21 @@ Analiza recenziilor pentru mouse-ul ATTACK SHARK X3
 Sursa: eMAG, consultata la 08.10.2026.
 https://www.emag.ro/mouse-de-gaming-wireless-attack-sharkr-x3-mouse-ergonomic-de-49g-senzor-optic-paw3395-cu-trei-moduri-26k-dpi-autonomie-baterie-200h-butoane-programabile-accesorii-de-gaming-pentru-pc-laptop-mac-alb-qt/pd/D2XC5J3BM/
 
-Am analizat 25 de recenzii scurte, impartite in recenzii_01.txt (13) si
-recenzii_02.txt (12). Textele nu contin numele autorilor, date personale,
-diacritice sau limbaj nepotrivit. eMAG grupeaza recenziile culorilor
-modelului X3, deci selectia include si alte variante decat cea alba.
+Am analizat 25 de recenzii scurte: 13 in recenzii_01.txt si 12 in recenzii_02.txt. Am eliminat numele, datele personale, diacriticele si limbajul nepotrivit. eMAG grupeaza recenziile culorilor modelului X3, asa ca selectia include si alte variante decat cea alba.
 
 Cerinta 1. Problema decizionala initiala
 
-Merita cumparat ATTACK SHARK X3 pentru jocuri si utilizare zilnica?
-Cumparatorul are un buget limitat si cauta un mouse usor, cu autonomie
-buna, care sa reziste in timp. Poate alege X3 sau poate amana achizitia
-pentru a compara alte modele. Recenziile il ajuta sa vada ce apreciaza
-utilizatorii si ce probleme au intalnit.
+Merita cumparat ATTACK SHARK X3 pentru jocuri si utilizare zilnica? Cumparatorul are un buget limitat si cauta un mouse usor, cu autonomie buna si rezistent in timp. Poate cumpara X3 sau poate amana achizitia pentru a compara alte modele. Recenziile arata ce apreciaza utilizatorii si ce probleme au avut.
 
 Cerinta 2. Pasii de rezolvare
 
-1. Am selectat 25 de recenzii scurte si distincte din lista de 46
-   disponibila pe eMAG la colectare.
-2. Am eliminat datele personale, diacriticele si emoji-urile, apoi am
-   salvat textele in doua fisiere UTF-8. Am pastrat greselile de scriere.
-3. Am numarat cuvintele dupa trecerea textului in litere mici, fara
-   etichetele RECENZIA. Un cuvant este o secventa de litere a-z; formele
-   diferite, precum mouse si mouseul, se numara separat.
-4. Am citit fiecare text si l-am clasificat: pozitiv daca exprima
-   satisfactie fara o problema concreta, negativ daca exprima doar
-   nemultumire, mixt daca include atat aprecieri, cat si probleme.
-5. Am urmarit mentionarile despre baterie, greutate, materiale,
-   accesorii si pret, apoi am calculat ponderea fiecarei clase:
-   numar de recenzii din clasa / 25 x 100.
+1. Am ales 25 de recenzii scurte si distincte din cele 46 disponibile pe eMAG la colectare.
+2. Am eliminat datele personale, diacriticele si emoji-urile si am salvat textele in doua fisiere UTF-8, pastrand greselile de scriere.
+3. Am trecut textul in litere mici si am numarat cuvintele, fara etichetele RECENZIA. Am considerat cuvant fiecare secventa de litere a-z; mouse si mouseul se numara separat.
+4. Am clasificat fiecare recenzie: pozitiva daca exprima satisfactie fara o problema concreta, negativa daca exprima doar nemultumire si mixta daca include aprecieri si probleme.
+5. Am urmarit comentariile despre baterie, greutate, materiale, accesorii si pret. Ponderea unei clase este numarul recenziilor din acea clasa / 25 x 100.
 
-Pentru verificare in AntConc se incarca numai cele doua fisiere de
-recenzii si se consulta lista de cuvinte si contextele lor. Frecventele
-de mai jos au fost calculate direct din texte, fara export din AntConc.
+Frecventele au fost calculate direct din texte. Se pot verifica in AntConc incarcand doar cele doua fisiere de recenzii si consultand lista de cuvinte si contextele. Valorile nu provin dintr-un export AntConc.
 
 Cerinta 3. Exemplificarea rezolvarii
 
@@ -44,44 +27,18 @@ Negative | 1 | 4%
 Mixte | 2 | 8%
 Total | 25 | 100%
 
-Recenzia 06 este negativa: descrie materiale slabe si uzura butonului
-stang. Recenziile 12 si 18 sunt mixte: utilizatorii apreciaza mouse-ul
-sau folosirea lui fara stickere, dar reclama probleme cu accesoriile.
-Celelalte 22 de recenzii sunt pozitive. De exemplu, 04 apreciaza bateria
-si greutatea mica, iar 24 apreciaza utilizarea in jocuri si pretul.
+Recenzia 06 este negativa: critica materialele si uzura butonului stang. Recenziile 12 si 18 sunt mixte: apreciaza mouse-ul sau folosirea lui fara stickere, dar descriu probleme cu accesoriile. Celelalte 22 sunt pozitive. Recenzia 04 apreciaza bateria si greutatea mica, iar 24, comportamentul in jocuri si pretul.
 
-Termenul bun apare de 11 ori, usor si recomand de cate 4 ori, iar
-bateria de 2 ori. Frecventa unui cuvant trebuie citita in context:
-in recenzia 12, recomand se refera la alegerea variantei fara accesorii.
+Bun apare de 11 ori, usor si recomand de cate 4 ori, iar bateria de 2 ori. Sensul depinde de context: in recenzia 12, recomand se refera la varianta fara accesorii.
 
-Ca exemplu, presupunem ca un cumparator pastreaza un produs pe lista
-de optiuni daca are minimum 80% opinii pozitive si maximum 10% negative.
-Aceste praguri sunt alese pentru exercitiu. X3 indeplineste ambele
-conditii, cu 88% si 4%, dar problemele de uzura merita verificate in
-recenzii mai detaliate inainte de cumparare.
+Pentru exercitiu, cumparatorul pastreaza pe lista produsele cu minimum 80% opinii pozitive si maximum 10% negative. X3 indeplineste aceste praguri, cu 88% si 4%. Inainte de cumparare, ar trebui citite si recenzii mai detaliate despre uzura.
 
 Cerinta 4. Interpretarea economica
 
-Greutatea mica si autonomia sunt avantaje pentru utilizarea zilnica.
-Criticile despre materiale si accesorii atrag atentia asupra unor
-posibile costuri de inlocuire si a timpului pierdut cu un produs defect.
+Greutatea mica si autonomia sunt avantaje pentru utilizarea zilnica. Problemele cu materialele si accesoriile pot aduce cheltuieli de inlocuire si timp pierdut cu un produs defect.
 
-Pentru un calcul ipotetic, presupunem un buget de 300 lei, un pret X3
-de 250 lei si o alternativa de 400 lei. Daca ambele functioneaza 24 de
-luni fara alte cheltuieli, costul lunar este 10,42 lei pentru X3 si
-16,67 lei pentru alternativa. X3 se incadreaza in buget si economiseste
-initial 150 lei. Aceste sume nu sunt preturi actuale eMAG.
+Presupunem un buget de 300 lei, un pret X3 de 250 lei si o alternativa de 400 lei. Sumele sunt ipotetice, nu preturi actuale eMAG. Daca ambele functioneaza 24 de luni fara alte cheltuieli, costul lunar este 10,42 lei pentru X3 si 16,67 lei pentru alternativa. X3 se incadreaza in buget si costa initial cu 150 lei mai putin.
 
-Daca X3 necesita o inlocuire platita integral in cele 24 de luni,
-costul ajunge la 500 lei, adica 20,83 lei pe luna. In acest scenariu,
-alternativa ar costa cu 100 lei mai putin, daca rezista fara alte
-cheltuieli. Economia initiala dispare cand cheltuielile suplimentare
-ale X3 depasesc cu peste 150 lei cheltuielile alternativei.
+O inlocuire a X3 platita integral in cele 24 de luni ar ridica totalul la 500 lei, adica 20,83 lei pe luna. Alternativa ar costa atunci cu 100 lei mai putin, daca rezista fara alte cheltuieli. Economia initiala dispare cand cheltuielile suplimentare ale X3 le depasesc pe cele ale alternativei cu peste 150 lei.
 
-Rezultatul de 88% descrie numai selectia analizata. Alegerea textelor
-scurte a exclus recenzii lungi, inclusiv relatari despre defecte, si
-poate supraestima satisfactia. Procentul de 4% opinii negative nu este
-o probabilitate de defectare. Nici durata de viata, nici autonomia de
-200 de ore din titlul comercial nu sunt demonstrate de aceste texte.
-X3 ramane o optiune pentru bugetul din exemplu; decizia finala depinde
-de fiabilitate si de compararea ofertelor efective.
+Cele 88% opinii pozitive descriu doar selectia analizata. Alegerea textelor scurte a exclus recenzii lungi, inclusiv relatari despre defecte, si poate supraestima satisfactia. Ponderea de 4% a opiniilor negative nu este o probabilitate de defectare. Recenziile nu demonstreaza durata de viata sau autonomia de 200 de ore din titlul comercial. X3 se incadreaza in bugetul exemplului; decizia finala cere verificarea fiabilitatii si compararea ofertelor efective.
