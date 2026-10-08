@@ -1,0 +1,87 @@
+Analiza recenziilor pentru mouse-ul ATTACK SHARK X3
+
+Sursa: eMAG, consultata la 08.10.2026.
+https://www.emag.ro/mouse-de-gaming-wireless-attack-sharkr-x3-mouse-ergonomic-de-49g-senzor-optic-paw3395-cu-trei-moduri-26k-dpi-autonomie-baterie-200h-butoane-programabile-accesorii-de-gaming-pentru-pc-laptop-mac-alb-qt/pd/D2XC5J3BM/
+
+Am analizat 25 de recenzii scurte, impartite in recenzii_01.txt (13) si
+recenzii_02.txt (12). Textele nu contin numele autorilor, date personale,
+diacritice sau limbaj nepotrivit. eMAG grupeaza recenziile culorilor
+modelului X3, deci selectia include si alte variante decat cea alba.
+
+Cerinta 1. Problema decizionala initiala
+
+Merita cumparat ATTACK SHARK X3 pentru jocuri si utilizare zilnica?
+Cumparatorul are un buget limitat si cauta un mouse usor, cu autonomie
+buna, care sa reziste in timp. Poate alege X3 sau poate amana achizitia
+pentru a compara alte modele. Recenziile il ajuta sa vada ce apreciaza
+utilizatorii si ce probleme au intalnit.
+
+Cerinta 2. Pasii de rezolvare
+
+1. Am selectat 25 de recenzii scurte si distincte din lista de 46
+   disponibila pe eMAG la colectare.
+2. Am eliminat datele personale, diacriticele si emoji-urile, apoi am
+   salvat textele in doua fisiere UTF-8. Am pastrat greselile de scriere.
+3. Am numarat cuvintele dupa trecerea textului in litere mici, fara
+   etichetele RECENZIA. Un cuvant este o secventa de litere a-z; formele
+   diferite, precum mouse si mouseul, se numara separat.
+4. Am citit fiecare text si l-am clasificat: pozitiv daca exprima
+   satisfactie fara o problema concreta, negativ daca exprima doar
+   nemultumire, mixt daca include atat aprecieri, cat si probleme.
+5. Am urmarit mentionarile despre baterie, greutate, materiale,
+   accesorii si pret, apoi am calculat ponderea fiecarei clase:
+   numar de recenzii din clasa / 25 x 100.
+
+Pentru verificare in AntConc se incarca numai cele doua fisiere de
+recenzii si se consulta lista de cuvinte si contextele lor. Frecventele
+de mai jos au fost calculate direct din texte, fara export din AntConc.
+
+Cerinta 3. Exemplificarea rezolvarii
+
+Clasificare | Numar | Pondere
+Pozitive | 22 | 88%
+Negative | 1 | 4%
+Mixte | 2 | 8%
+Total | 25 | 100%
+
+Recenzia 06 este negativa: descrie materiale slabe si uzura butonului
+stang. Recenziile 12 si 18 sunt mixte: utilizatorii apreciaza mouse-ul
+sau folosirea lui fara stickere, dar reclama probleme cu accesoriile.
+Celelalte 22 de recenzii sunt pozitive. De exemplu, 04 apreciaza bateria
+si greutatea mica, iar 24 apreciaza utilizarea in jocuri si pretul.
+
+Termenul bun apare de 11 ori, usor si recomand de cate 4 ori, iar
+bateria de 2 ori. Frecventa unui cuvant trebuie citita in context:
+in recenzia 12, recomand se refera la alegerea variantei fara accesorii.
+
+Ca exemplu, presupunem ca un cumparator pastreaza un produs pe lista
+de optiuni daca are minimum 80% opinii pozitive si maximum 10% negative.
+Aceste praguri sunt alese pentru exercitiu. X3 indeplineste ambele
+conditii, cu 88% si 4%, dar problemele de uzura merita verificate in
+recenzii mai detaliate inainte de cumparare.
+
+Cerinta 4. Interpretarea economica
+
+Greutatea mica si autonomia sunt avantaje pentru utilizarea zilnica.
+Criticile despre materiale si accesorii atrag atentia asupra unor
+posibile costuri de inlocuire si a timpului pierdut cu un produs defect.
+
+Pentru un calcul ipotetic, presupunem un buget de 300 lei, un pret X3
+de 250 lei si o alternativa de 400 lei. Daca ambele functioneaza 24 de
+luni fara alte cheltuieli, costul lunar este 10,42 lei pentru X3 si
+16,67 lei pentru alternativa. X3 se incadreaza in buget si economiseste
+initial 150 lei. Aceste sume nu sunt preturi actuale eMAG.
+
+Daca X3 necesita o inlocuire platita integral in cele 24 de luni,
+costul ajunge la 500 lei, adica 20,83 lei pe luna. In acest scenariu,
+alternativa ar costa cu 100 lei mai putin, daca rezista fara alte
+cheltuieli. Economia initiala dispare cand cheltuielile suplimentare
+ale X3 depasesc cu peste 150 lei cheltuielile alternativei.
+
+Rezultatul de 88% descrie numai selectia analizata. Alegerea textelor
+scurte a exclus recenzii lungi, inclusiv relatari despre defecte, si
+poate supraestima satisfactia. Procentul de 4% opinii negative nu este
+o probabilitate de defectare. Nici durata de viata, nici autonomia de
+200 de ore din titlul comercial nu sunt demonstrate de aceste texte.
+X3 ramane o optiune pentru bugetul din exemplu; decizia finala depinde
+de fiabilitate si de compararea ofertelor efective.
