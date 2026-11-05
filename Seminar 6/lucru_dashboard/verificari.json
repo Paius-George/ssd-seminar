@@ -1,0 +1,99 @@
+{
+  "total": 347593,
+  "transactions": 190,
+  "connections": [
+    {
+      "slicer": "An vanzare",
+      "pivots": [
+        "Pivot_data",
+        "Pivot_reg_prod",
+        "Pivot_jud_prod",
+        "Pivot_pie",
+        "Pivot_ag10",
+        "Pivot_prod_ani",
+        "Pivot_dashboard_prod_ani"
+      ]
+    },
+    {
+      "slicer": "Regiune",
+      "pivots": [
+        "Pivot_data",
+        "Pivot_reg_prod",
+        "Pivot_jud_prod",
+        "Pivot_pie",
+        "Pivot_ag10",
+        "Pivot_prod_ani",
+        "Pivot_dashboard_prod_ani"
+      ]
+    },
+    {
+      "slicer": "Categorie_produs",
+      "pivots": [
+        "Pivot_data",
+        "Pivot_reg_prod",
+        "Pivot_jud_prod",
+        "Pivot_pie",
+        "Pivot_ag10",
+        "Pivot_prod_ani",
+        "Pivot_dashboard_prod_ani"
+      ]
+    },
+    {
+      "slicer": "Nume_complet_agent",
+      "pivots": [
+        "Pivot_data",
+        "Pivot_reg_prod",
+        "Pivot_jud_prod",
+        "Pivot_pie",
+        "Pivot_prod_ani",
+        "Pivot_dashboard_prod_ani"
+      ]
+    }
+  ],
+  "pivots": [
+    [
+      "PivotTable0",
+      "PivotTable0"
+    ],
+    [
+      "PivotTable1",
+      "PivotTable1"
+    ],
+    [
+      "PivotTable2",
+      "PivotTable2"
+    ],
+    [
+      "Pivot_sortat",
+      "Pivot_sortat"
+    ],
+    [
+      "Chart_data",
+      "Pivot_data"
+    ],
+    [
+      "Chart_reg_prod",
+      "Pivot_reg_prod"
+    ],
+    [
+      "Chart_jud_prod",
+      "Pivot_jud_prod"
+    ],
+    [
+      "Chart_pie",
+      "Pivot_pie"
+    ],
+    [
+      "Chart_ag10",
+      "Pivot_ag10"
+    ],
+    [
+      "Chart_prod_ani",
+      "Pivot_prod_ani"
+    ],
+    [
+      "Dashboard",
+      "Pivot_dashboard_prod_ani"
+    ]
+  ]
+}

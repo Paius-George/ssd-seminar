@@ -1,0 +1,57 @@
+﻿[
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:color\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[1]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:b\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[2]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:b\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[3]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:sz\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[4]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:i\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[5]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:b\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[6]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:sz\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[7]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:color\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[8]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:b\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[9]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:b\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[10]"
+    },
+    {
+        "Description":  "The element has unexpected child element \u0027http://schemas.openxmlformats.org/spreadsheetml/2006/main:sz\u0027.",
+        "Part":  "/xl/styles.xml",
+        "Path":  "/x:styleSheet[1]/x:fonts[1]/x:font[11]"
+    }
+]
